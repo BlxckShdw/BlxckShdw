@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlxckShdw
-- 👀 I’m interested in music, art, astronomy / space in general 
-- 🌱 I’m currently learning C# 
+- 👀 I’m interested in Acting, mMsic, Art, Astronomy, Karate, and Gaming
+- 🌱 I’m currently learning C# and Python
 - 😄 Pronouns: she / her 
 
 <!---
