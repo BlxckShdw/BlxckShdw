@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlxckShdw
-- 👀 I’m interested in Acting, mMsic, Art, Astronomy, Karate, and Gaming
+- 👀 I’m interested in Acting, Music, Art, Astronomy, Karate, and Gaming
 - 🌱 I’m currently learning C# and Python
 - 😄 Pronouns: she / her 
 
